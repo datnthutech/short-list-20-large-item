@@ -1,0 +1,16 @@
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.exe
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.deps.json
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.runtimeconfig.json
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.runtimeconfig.dev.json
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.dll
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\ref\short-list-20-large-item.dll
+D:\Mon\G\Require\short-list-20-large-item\bin\Debug\net5.0\short-list-20-large-item.pdb
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.csproj.AssemblyReference.cache
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.AssemblyInfoInputs.cache
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.AssemblyInfo.cs
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.csproj.CoreCompileInputs.cache
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.dll
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\ref\short-list-20-large-item.dll
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.pdb
+D:\Mon\G\Require\short-list-20-large-item\obj\Debug\net5.0\short-list-20-large-item.genruntimeconfig.cache
